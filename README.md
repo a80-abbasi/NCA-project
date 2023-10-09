@@ -1,6 +1,6 @@
 # Internship at IVRL
 
-As a summer intern at the [Image and Visual Representation Lab (IVRL)](https://www.epfl.ch/labs/ivrl/) at EPFL, my research was mainly focused on designing loss functions for generating textures, especially via Neural Cellular Automata (NCA), building upon [DyNCA](https://dynca.github.io/). I mostly tackled the problem of generating high-quality textures with Neural Cellular Automata (NCA) and the problem of grafting two NCAs with each other (see below).
+As a summer intern at the [Image and Visual Representation Lab (IVRL)](https://www.epfl.ch/labs/ivrl/) at EPFL, my research was mainly focused on designing loss functions for generating textures, especially via Neural Cellular Automata (NCA), building upon [DyNCA](https://dynca.github.io/). I mostly tackled the problem of generating high-resolution textures with Neural Cellular Automata (NCA) and the problem of grafting two NCAs with each other (see below).
 
 You can find my reports in this repository. Please note that PDF files should be opened with Adobe Acrobat to play GIFs properly.
 
